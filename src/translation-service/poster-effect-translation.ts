@@ -50,7 +50,7 @@ export const posterEffectTranslations: Translation[] = [{
   chinese: '自身Sense的CT缩短[:param11]秒'
 }, {
   japanese: 'センスによるP.ゲージの獲得量が[:param11]%UP',
-  chinese: 'Sense中的Principle Gauge获得量提升[:param11]%'
+  chinese: 'Sense中的Principal Gauge获得量提升[:param11]%'
 }, {
   japanese: '公演開始時、ライフが2000上昇',
   chinese: '公演开始时，提升2000点血量'
@@ -62,7 +62,7 @@ export const posterEffectTranslations: Translation[] = [{
   chinese: '公演开始时，给予10次血量保护'
 }, {
   japanese: 'プリンシパルゲージの上限を1000上昇',
-  chinese: 'Principle Gauge的上限提升1000'
+  chinese: 'Principal Gauge的上限提升1000'
 }, {
   japanese: 'センスを発動しなくなるが、自身の演技力が2倍',
   chinese: '演员的Sense无法发动，自身演技力翻倍'
