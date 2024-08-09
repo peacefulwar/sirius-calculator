@@ -40,8 +40,17 @@ export const characterEffectTranslations: Translation[] = [{
   japanese: '効果無し（所持している「光」は維持される）',
   chinese: '无效果（维持目前所拥有的光）'
 }, {
+  japanese: '付与されているライフガード1回につきスコア獲得量10％上昇（最大＋100％）',
+  chinese: '每有1个Life Guard分数获得量上升10%（最大+100%）'
+}, {
+  japanese: 'ライフが多いほどスコア獲得量UP効果（最大＋[:pre1]%）',
+  chinese: '血量越多，得分获得量越高（最大+[:pre1]%）'
+}, {
   japanese: '総演技力の[:score]倍のスコアを獲得',
   chinese: '获得总演技力[:score]倍的分数'
+}, {
+  japanese: 'ストックされている[LIGHT]の光1個につき総演技力の[:param11]倍のスコアを追加で獲得(最大5個)',
+  chinese: '当前每储存1个[LIGHT]的光，获得总演技力[:param11]倍的分数（最多计入5个）'
 }]
 
 export const effectTimes: number[] = [1, 2, 3, 5, 8, 9, 10]
